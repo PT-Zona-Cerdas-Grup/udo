@@ -10,7 +10,7 @@ UDO diharapkan mampu memberikan peluang usaha baru bagi masyarakan terutama dala
 
 UDO sejatinya memiliki kelebihan dan kekurangan tersendiri, sehingga kami terus berusaha untuk mengembangkannya. Kami juga menerima masukan dan kritikan dari para pelanggan program UDO demi kesempurnaan UDO kedepannya.
 
----
+
 
 ## Memulai Cepat
 
@@ -45,7 +45,7 @@ UDO memiliki tahapan rilis yang disebut `versi` dan versi terbaru akan memiliki 
 Saat ini UDO masih stabil di hosting dengan PHP Versi 7.4.00
 !!!
 
----
+
 
 ## Seperti Apa UDO?
 
@@ -78,7 +78,7 @@ UDO selalu mendapatkan pembaharuan dari segi tampilan, keamanan, struktur data d
 
 Anda bisa menjalankan UDO di tempat hosting masa saja dengan mudah.
 
----
+
 
 ## Bantuan
 
