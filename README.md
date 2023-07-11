@@ -12,8 +12,6 @@ UDO diharapkan mampu memberikan peluang usaha baru bagi masyarakan terutama dala
 
 UDO sejatinya memiliki kelebihan dan kekurangan tersendiri, sehingga kami terus berusaha untuk mengembangkannya. Kami juga menerima masukan dan kritikan dari para pelanggan program UDO demi kesempurnaan UDO kedepannya.
 
-![](https://github.com/PT-Zona-Cerdas-Grup/udo/blob/main/static/beranda/udo-tampilan-beranda-tema.png)
-
 ## Memulai Cepat
 
 Anda dapat memulai membuka jasa undangan digital secepatnya. Dapatkan program UDO melalui kontak kami. Kami akan merekomendasikan domain dan hosting terbaik untuk memulai usaha impian Anda.
@@ -51,6 +49,7 @@ Saat ini UDO masih stabil di hosting dengan PHP Versi 7.4.00
 
 ## Seperti Apa UDO?
 
+![](https://github.com/PT-Zona-Cerdas-Grup/udo/blob/main/static/beranda/udo-tampilan-beranda-tema.png)
 
 #### Berjalan Baik
 
