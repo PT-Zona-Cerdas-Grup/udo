@@ -1,5 +1,7 @@
  # Undangan Digital Online (UDO)
 
+![](https://github.com/PT-Zona-Cerdas-Grup/udo/blob/main/static/beranda/udo-tampilan-beranda.png)
+
 [UDO](https://udo.zonacerdas.net/) adalah :sparkles: layanan undangan digital online :sparkles: suatu layanan undangan pernikahan/aqiqah/syukuran/ulang tahun/anniversary online. Undangan yang dikemas dalam bentuk web yang praktis dan mudah untuk digunakan maupun dibagikan kepada para tamu undangan.
 
 > “Undangan digital terpercaya dengan fitur lengkap & desain elegan serta hanya butuh 10 menit saja” – K Fikri
@@ -10,7 +12,7 @@ UDO diharapkan mampu memberikan peluang usaha baru bagi masyarakan terutama dala
 
 UDO sejatinya memiliki kelebihan dan kekurangan tersendiri, sehingga kami terus berusaha untuk mengembangkannya. Kami juga menerima masukan dan kritikan dari para pelanggan program UDO demi kesempurnaan UDO kedepannya.
 
-
+![](https://github.com/PT-Zona-Cerdas-Grup/udo/blob/main/static/beranda/udo-tampilan-beranda-tema.png)
 
 ## Memulai Cepat
 
