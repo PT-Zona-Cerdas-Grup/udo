@@ -1,6 +1,6 @@
  # Undangan Digital Online (UDO)
 
-![](https://github.com/PT-Zona-Cerdas-Grup/udo/blob/main/static/beranda/udo-tampilan-beranda.png)
+![](https://github.com/PT-Zona-Cerdas-Grup/udo/blob/main/v3.2/static/beranda/udo-tampilan-beranda.png)
 
 [UDO](https://udo.zonacerdas.net/) adalah :sparkles: layanan undangan digital online :sparkles: suatu layanan undangan pernikahan/aqiqah/syukuran/ulang tahun/anniversary online. Undangan yang dikemas dalam bentuk web yang praktis dan mudah untuk digunakan maupun dibagikan kepada para tamu undangan.
 
@@ -49,7 +49,7 @@ Saat ini UDO masih stabil di hosting dengan PHP Versi 7.4.00
 
 ## Seperti Apa UDO?
 
-![](https://github.com/PT-Zona-Cerdas-Grup/udo/blob/main/static/beranda/udo-tampilan-beranda-tema.png)
+![](https://github.com/PT-Zona-Cerdas-Grup/udo/blob/main/v3.2/static/beranda/udo-tampilan-beranda-tema.png)
 
 #### Berjalan Baik
 
